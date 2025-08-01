@@ -1,3 +1,3 @@
 # Demo
 
-Some Description!
+This is my first Git Repository.
